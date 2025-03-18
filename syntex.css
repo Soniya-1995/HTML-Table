@@ -1,0 +1,291 @@
+.template-1{
+    background-image: linear-gradient(to bottom, rgb(172, 172, 216) 30%,rgb(41, 134, 134) 50%,rgb(41, 134, 134) 50%, rgb(145, 241, 241) 100%);
+    min-height: 700px;
+    background-repeat: no-repeat;
+    width: 760px;
+    margin-left: 20%;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.nav-item{
+    margin-left: 20px;
+    font-size: small;
+}
+
+
+.item{
+    text-align: center;
+    margin-top: 100px;
+}
+#name{
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    width: 500px;
+    margin-left: 60px;
+}
+.ctn-button{ 
+    padding: 10px 20px;
+    border-radius: 50px ; 
+    border: none
+}
+.item-1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;   
+}
+.part-1{
+    width: 250px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+h6{
+    margin-left: 20px;
+    padding-top: 20px;
+    
+}
+p{
+    margin-left: 20px;
+    font-size: small; 
+    
+}
+.images{
+    text-align: center;
+}
+.part-2{
+    width: 350px;
+    height: 300px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-image: url(file:///home/naveen/Downloads/finance1.webp);
+    background-size: cover;
+    opacity: 0.5;
+}
+.part-2:hover{
+    opacity: 1;
+}
+.ram{
+    margin-left: 20px;
+    padding-top: 20px;
+    color: yellow;  
+}
+.shyam{
+    margin-left: 20px;
+    font-size: small; 
+    color: gold 
+}
+.sita{
+    font-size: small;
+    font-weight: 900;
+    margin-left: 20px;
+    background-color: rgb(3, 161, 161);
+    border: 1px solid rgb(3, 161, 161);
+    color: white;
+    border-radius: 50px;
+}
+.part-2:hover .sita{
+    background-color: blue;
+    color: black;
+}
+.lakshman{
+    padding-top: 120px; 
+    color: yellow;
+}
+.fa-twitter,.fa-facebook{
+    color: white;
+    border: 1px solid aqua;
+    padding: 5px;
+    border-radius: 100%;
+    background-color: aqua;
+    color: black;
+
+}
+.fa-twitter{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.template-2{
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 20%;
+    width: 760px;
+}
+.item-3 ul{
+   list-style: none;
+   margin-top: 20px;
+   display: flex;
+   justify-content: center;
+
+}
+.item-2,.item-4,.item-5,.item-6,.item-7{
+    margin-left: 30px;
+}
+.item-2:hover{
+    color: blue;
+    border-bottom: 1px solid aqua;
+    
+}
+.item-4:hover{
+    color: blue;
+    border-bottom: 1px solid aqua;
+}
+.item-5:hover{
+    color: blue;
+    border-bottom: 1px solid aqua;
+}
+.item-6:hover{
+    color: blue;
+    border-bottom: 1px solid aqua;
+}
+.item-7:hover{
+    color: blue;
+    border-bottom: 1px solid aqua;
+}
+.santosh{
+    display: flex;
+    justify-content: center;
+}
+.item-8{
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.item-8:hover{
+    background-color: rgb(115, 209, 209);
+    color: white;
+}
+.aaru{
+    text-align: start;
+}
+.guddu{
+    text-align: start;  
+}
+.images-1{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+.sarwan{
+    width: 760px;
+    min-height: 500px;
+    margin-left: 20%;
+    border: none;
+    margin-top: 50px;
+    background-image: linear-gradient(to bottom, rgb(172, 172, 216) 30%,rgb(41, 134, 134) 50%,rgb(41, 134, 134) 50%, rgb(145, 241, 241) 100%);
+    
+}
+.neetu{
+    margin-top: 50px;
+    text-align: center; color: white;
+}
+.bitu{
+    margin-left: 75px;
+    margin-top: 20px;
+    color: white;
+}
+
+
+.neeru{
+    margin-left: 165px;
+    color: white;
+
+
+}
+.veer img{
+    margin-bottom: 8px;
+    margin-top: 2px;
+    margin-right: 50px;
+    border: 1px solid white;
+    border-radius: 100%;
+    padding: 10px;
+   
+}
+
+
+
+.babita{
+    width: 760px;
+    margin-left: 23%;
+    margin-top: 50px;
+}
+.ramna{
+    display: flex;
+    
+
+}
+.lakhan{
+    padding-left: 20px;
+}
+.aaa{
+   border: none;
+   padding: 10px;
+   border-radius: 50px;
+   background-color: rgb(85, 182, 182);
+
+}
+.ccc{
+    margin-left: 150px;
+}
+.bbb{
+    font-size: 12px;
+    padding-left: 12px;
+    display: none;
+}
+.lakhan:hover .bbb{
+    display: block;
+}
+.ddd{
+    padding-left: 10px;
+}
+.ppp{
+    margin-left: 162px;
+}
+.fff{
+    margin-left: 154px ;
+}
+
+
+.template-5{
+    border: none;
+    width: 760px;
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(212, 241, 241);
+}
+
+.manohar{
+    margin-top: 50px;
+    text-align: center;
+   
+}
+.pratibha{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    
+}
+.rekha iframe{
+    width: 200px;
+    height: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.ramu{
+    display: flex;
+}
+.kkk{
+    margin-left: 20px;
+}
+.pari{
+    padding-left: 20px;
+}
+
